@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_svg/flutter_svg.dart';
+import 'package:flutter_winning_eleven/blocs/competition_bloc/competition_bloc.dart';
 import 'package:flutter_winning_eleven/blocs/team_bloc/team_bloc.dart';
 import 'package:flutter_winning_eleven/models/team.dart';
 import 'package:flutter_winning_eleven/utils/app_config.dart';
@@ -14,26 +15,49 @@ class BestTeamPage extends StatelessWidget {
       appBar: AppBar(
         title: const Text('Winning Eleven ⚽'),
       ),
-      body: BlocBuilder<TeamBloc, TeamState>(
-        builder: (context, state) {
-          if (state is TeamFetchSuccess) {
-            return _BestTeamContentWidget(team: state.team);
-          }
+      body: MultiBlocListener(
+        listeners: [
+          BlocListener<CompetitionBloc, CompetitionState>(
+            listener: (context, state) {
+              if (state is CompetitionFetchFailure) {
+                // TODO(hafiz): Implement proper no internet error handling
+                ScaffoldMessenger.of(context).showSnackBar(
+                  const SnackBar(
+                    backgroundColor: Colors.orange,
+                    behavior: SnackBarBehavior.floating,
+                    content: Text(
+                      'Error in getting competition, please restart app to try again.',
+                      style: TextStyle(color: Colors.white),
+                    ),
+                    duration: Duration(milliseconds: 7000),
+                    dismissDirection: DismissDirection.none,
+                  ),
+                );
+              }
+            },
+          ),
+        ],
+        child: BlocBuilder<TeamBloc, TeamState>(
+          builder: (context, state) {
+            if (state is TeamFetchSuccess) {
+              return _BestTeamContentWidget(team: state.team);
+            }
 
-          if (state is TeamFetchFailure) {
-            return Center(
-              child: Text(
-                state.errorMessage,
-                style: Theme.of(context).textTheme.headline6,
-              ),
+            if (state is TeamFetchFailure) {
+              return Center(
+                child: Text(
+                  state.errorMessage,
+                  style: Theme.of(context).textTheme.headline6,
+                ),
+              );
+            }
+
+            // State is either `TeamFetchInProgress` or `TeamInitial`
+            return const Center(
+              child: CircularProgressIndicator(),
             );
-          }
-
-          // State is either `TeamFetchInProgress` or `TeamInitial`
-          return const Center(
-            child: CircularProgressIndicator(),
-          );
-        },
+          },
+        ),
       ),
     );
   }
