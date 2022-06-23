@@ -7,6 +7,7 @@ import 'package:flutter_winning_eleven/blocs/team_bloc/team_bloc.dart';
 import 'package:flutter_winning_eleven/services/repository.dart';
 import 'package:flutter_winning_eleven/utils/app_utils.dart';
 import 'package:flutter_winning_eleven/widgets/best_team_page.dart';
+import 'package:flutter_winning_eleven/widgets/text_scale_factor_clamper.dart';
 
 void main() {
   BlocOverrides.runZoned(
@@ -53,7 +54,9 @@ class WinningElevenApp extends StatelessWidget {
           visualDensity: VisualDensity.adaptivePlatformDensity,
           brightness: Brightness.dark,
         ),
-        home: const BestTeamPage(),
+        home: const TextScaleFactorClamper(
+          child: BestTeamPage(),
+        ),
       ),
     );
   }
