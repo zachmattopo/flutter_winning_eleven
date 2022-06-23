@@ -6,14 +6,24 @@ class Team {
     this.name,
     this.shortName,
     this.tla,
-    this.crestUrl,
+    this.crest,
+    this.address,
+    this.website,
+    this.founded,
+    this.clubColors,
+    this.venue,
   });
 
   int? id;
   String? name;
   String? shortName;
   String? tla;
-  String? crestUrl;
+  String? crest;
+  String? address;
+  String? website;
+  int? founded;
+  String? clubColors;
+  String? venue;
 
   factory Team.fromRawJson(String str) => Team.fromJson(json.decode(str));
 
@@ -22,6 +32,11 @@ class Team {
         name: json['name'],
         shortName: json['shortName'],
         tla: json['tla'],
-        crestUrl: json['crest'],
+        crest: json['crest'],
+        address: json['address'],
+        website: json['website'],
+        founded: json['founded'],
+        clubColors: json['clubColors'],
+        venue: json['venue'],
       );
 }

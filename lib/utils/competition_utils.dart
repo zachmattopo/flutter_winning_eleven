@@ -7,18 +7,18 @@ class CompetitionUtils {
   /// If season has ended, will return the last end date of the season.
   ///
   /// Else, will return the current date time.
-  DateTime? getMatchesDateTo(Competition competition) {
+  static DateTime? getMatchesDateTo(Competition competition) {
     if (competition.seasons == null) return null;
 
     for (final Season season in competition.seasons!) {
       if (season.startDate == null) break;
 
       // Guard against season that has not started, skip to next season
-      if (isSeasonInFuture(season.startDate!)) continue;
+      if (_isSeasonInFuture(season.startDate!)) continue;
 
       if (season.endDate == null) break;
 
-      if (isSeasonEnded(season.endDate!)) {
+      if (_isSeasonEnded(season.endDate!)) {
         // Most recent season has ended, use the end date of that season
         return season.endDate;
       } else {
@@ -30,16 +30,17 @@ class CompetitionUtils {
     return null;
   }
 
-  /// Get the start date to use when retrieving list of matches (aka 30 days ago).
-  DateTime getMatchesDateFrom(DateTime dateTo) {
+  /// Get the start date to use when retrieving list of matches,
+  /// aka 30 days ago from input date.
+  static DateTime getMatchesDateFrom(DateTime dateTo) {
     return dateTo.subtract(const Duration(days: 30)).toUtc();
   }
 
-  bool isSeasonInFuture(DateTime startDate) {
+  static bool _isSeasonInFuture(DateTime startDate) {
     return DateTime.now().isBefore(startDate);
   }
 
-  bool isSeasonEnded(DateTime endDate) {
+  static bool _isSeasonEnded(DateTime endDate) {
     return DateTime.now().isAfter(endDate);
   }
 }

@@ -5,7 +5,7 @@ class MatchUtils {
   /// Get a map of teams with their total games won.
   ///
   /// NOTE: Only teams with at least one game won will be in map.
-  Map<Team, int> getTeamWinMap(List<Match> matches) {
+  static Map<Team, int> getTeamWinMap(List<Match> matches) {
     final Map<Team, int> teamWinMap = {};
 
     for (final Match match in matches) {
@@ -39,7 +39,7 @@ class MatchUtils {
   /// Get the team that won most matches in last 30 days.
   ///
   /// If map param input is empty map, returns null.
-  Team? getBestTeam(Map<Team, int> teamWinMap) {
+  static Team? getBestTeam(Map<Team, int> teamWinMap) {
     // Guard against empty map
     if (teamWinMap.isEmpty) return null;
 

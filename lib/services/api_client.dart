@@ -30,8 +30,8 @@ class ApiClient {
     return options;
   }
 
-  Future<ApiResponse> getSerieACompetition() async {
-    const url = '/v4/competitions/SA';
+  Future<ApiResponse> fetchCompetition(String competitionCode) async {
+    final String url = '/v4/competitions/$competitionCode';
 
     try {
       final Response response = await apiClient.get(url);
@@ -49,10 +49,10 @@ class ApiClient {
     }
   }
 
-  Future<ApiResponse> getPastMonthSerieAFinishedMatches({
-    required DateTime dateFrom,
-    required DateTime dateTo,
-  }) async {
+  Future<ApiResponse> fetchPastMonthFinishedMatches(
+    DateTime dateFrom,
+    DateTime dateTo,
+  ) async {
     const url = '/v4/competitions/SA/matches';
 
     try {
@@ -64,6 +64,25 @@ class ApiClient {
           'dateTo': DateTimeUtils.formatYYYYMMDD(dateTo),
         },
       );
+
+      return ApiResponse(
+        success: true,
+        data: response.data['matches'],
+      );
+    } on DioError catch (error) {
+      return ApiResponse(
+        success: false,
+        error: error,
+        stackTrace: StackTrace.current,
+      );
+    }
+  }
+
+  Future<ApiResponse> fetchTeam(int id) async {
+    final String url = '/v4/teams/$id';
+
+    try {
+      final Response response = await apiClient.get(url);
 
       return ApiResponse(
         success: true,
