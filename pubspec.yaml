@@ -76,6 +76,19 @@ dev_dependencies:
   # https://pub.dev/packages/bloc_test
   bloc_test: ^9.0.3
 
+  # A build system for Dart code generation and modular compilation.
+  # https://pub.dev/packages/build_runner
+  build_runner: ^2.1.11
+
+  # A mock framework inspired by Mockito with APIs for Fakes, Mocks, behavior verification, and stubbing.
+  # https://pub.dev/packages/mockito
+  mockito: ^5.2.0
+
+  # A full featured library for writing and running Dart tests across platforms.
+  # https://pub.dev/packages/test
+  # DEV NOTE: Resolvable only to v1.19.5 at the moment
+  test: ^1.19.5
+
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 

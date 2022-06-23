@@ -1,0 +1,3566 @@
+[
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333444,
+        "utcDate": "2022-04-23T13:00:00Z",
+        "status": "FINISHED",
+        "matchday": 34,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 454,
+            "name": "Venezia FC",
+            "shortName": "Venezia FC",
+            "tla": "VEN",
+            "crest": "https://crests.football-data.org/454.png"
+        },
+        "awayTeam": {
+            "id": 102,
+            "name": "Atalanta BC",
+            "shortName": "Atalanta",
+            "tla": "ATA",
+            "crest": "https://crests.football-data.org/102.svg"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 3
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 1
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 161397,
+                "name": "Francesco Forneau",
+                "type": "REFEREE",
+                "nationality": null
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333445,
+        "utcDate": "2022-04-23T13:00:00Z",
+        "status": "FINISHED",
+        "matchday": 34,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 586,
+            "name": "Torino FC",
+            "shortName": "Torino",
+            "tla": "TOR",
+            "crest": "https://crests.football-data.org/586.svg"
+        },
+        "awayTeam": {
+            "id": 488,
+            "name": "Spezia Calcio",
+            "shortName": "Spezia Calcio",
+            "tla": "SPE",
+            "crest": "https://crests.football-data.org/488.svg"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 2,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 11084,
+                "name": "Davide Ghersini",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333449,
+        "utcDate": "2022-04-23T16:00:00Z",
+        "status": "FINISHED",
+        "matchday": 34,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 108,
+            "name": "FC Internazionale Milano",
+            "shortName": "Inter",
+            "tla": "INT",
+            "crest": "https://crests.football-data.org/108.png"
+        },
+        "awayTeam": {
+            "id": 100,
+            "name": "AS Roma",
+            "shortName": "Roma",
+            "tla": "ROM",
+            "crest": "https://crests.football-data.org/100.svg"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 3,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 2,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 57826,
+                "name": "Simone Sozza",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333450,
+        "utcDate": "2022-04-23T18:45:00Z",
+        "status": "FINISHED",
+        "matchday": 34,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 450,
+            "name": "Hellas Verona FC",
+            "shortName": "Verona",
+            "tla": "HVE",
+            "crest": "https://crests.football-data.org/450.png"
+        },
+        "awayTeam": {
+            "id": 584,
+            "name": "UC Sampdoria",
+            "shortName": "Sampdoria",
+            "tla": "SAM",
+            "crest": "https://crests.football-data.org/584.svg"
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 1
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 57842,
+                "name": "Giovanni Ayroldi",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333447,
+        "utcDate": "2022-04-24T10:30:00Z",
+        "status": "FINISHED",
+        "matchday": 34,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 455,
+            "name": "US Salernitana 1919",
+            "shortName": "Salernitana",
+            "tla": "SAL",
+            "crest": "https://crests.football-data.org/455.png"
+        },
+        "awayTeam": {
+            "id": 99,
+            "name": "ACF Fiorentina",
+            "shortName": "Fiorentina",
+            "tla": "FIO",
+            "crest": "https://crests.football-data.org/99.svg"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 2,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 11029,
+                "name": "Davide Massa",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333452,
+        "utcDate": "2022-04-24T13:00:00Z",
+        "status": "FINISHED",
+        "matchday": 34,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 445,
+            "name": "Empoli FC",
+            "shortName": "Empoli",
+            "tla": "EMP",
+            "crest": "https://crests.football-data.org/445.png"
+        },
+        "awayTeam": {
+            "id": 113,
+            "name": "SSC Napoli",
+            "shortName": "Napoli",
+            "tla": "NAP",
+            "crest": "https://crests.football-data.org/113.svg"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 3,
+                "away": 2
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 1
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 11119,
+                "name": "Livio Marinelli",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333453,
+        "utcDate": "2022-04-24T13:00:00Z",
+        "status": "FINISHED",
+        "matchday": 34,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 103,
+            "name": "Bologna FC 1909",
+            "shortName": "Bologna",
+            "tla": "BOL",
+            "crest": "https://crests.football-data.org/103.svg"
+        },
+        "awayTeam": {
+            "id": 115,
+            "name": "Udinese Calcio",
+            "shortName": "Udinese",
+            "tla": "UDI",
+            "crest": "https://crests.football-data.org/115.png"
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 2,
+                "away": 2
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 1
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 11087,
+                "name": "Alberto Santoro",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333451,
+        "utcDate": "2022-04-24T16:00:00Z",
+        "status": "FINISHED",
+        "matchday": 34,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 107,
+            "name": "Genoa CFC",
+            "shortName": "Genoa",
+            "tla": "GEN",
+            "crest": "https://crests.football-data.org/107.svg"
+        },
+        "awayTeam": {
+            "id": 104,
+            "name": "Cagliari Calcio",
+            "shortName": "Cagliari",
+            "tla": "CAG",
+            "crest": "https://crests.football-data.org/104.svg"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 0
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 11075,
+                "name": "Paolo Valeri",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333448,
+        "utcDate": "2022-04-24T18:45:00Z",
+        "status": "FINISHED",
+        "matchday": 34,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 110,
+            "name": "SS Lazio",
+            "shortName": "Lazio",
+            "tla": "LAZ",
+            "crest": "https://crests.football-data.org/110.svg"
+        },
+        "awayTeam": {
+            "id": 98,
+            "name": "AC Milan",
+            "shortName": "Milan",
+            "tla": "MIL",
+            "crest": "https://crests.football-data.org/98.svg"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 2
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 11079,
+                "name": "Marco Guida",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333446,
+        "utcDate": "2022-04-25T18:45:00Z",
+        "status": "FINISHED",
+        "matchday": 34,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 471,
+            "name": "US Sassuolo Calcio",
+            "shortName": "Sassuolo",
+            "tla": "SAS",
+            "crest": "https://crests.football-data.org/471.svg"
+        },
+        "awayTeam": {
+            "id": 109,
+            "name": "Juventus FC",
+            "shortName": "Juventus",
+            "tla": "JUV",
+            "crest": "https://crests.football-data.org/109.svg"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 2
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 1
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 10977,
+                "name": "Fabio Maresca",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333591,
+        "utcDate": "2022-04-27T16:00:00Z",
+        "status": "FINISHED",
+        "matchday": 20,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 99,
+            "name": "ACF Fiorentina",
+            "shortName": "Fiorentina",
+            "tla": "FIO",
+            "crest": "https://crests.football-data.org/99.svg"
+        },
+        "awayTeam": {
+            "id": 115,
+            "name": "Udinese Calcio",
+            "shortName": "Udinese",
+            "tla": "UDI",
+            "crest": "https://crests.football-data.org/115.png"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 0,
+                "away": 4
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 2
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 11104,
+                "name": "Ivan Pezzuto",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333592,
+        "utcDate": "2022-04-27T18:15:00Z",
+        "status": "FINISHED",
+        "matchday": 20,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 103,
+            "name": "Bologna FC 1909",
+            "shortName": "Bologna",
+            "tla": "BOL",
+            "crest": "https://crests.football-data.org/103.svg"
+        },
+        "awayTeam": {
+            "id": 108,
+            "name": "FC Internazionale Milano",
+            "shortName": "Inter",
+            "tla": "INT",
+            "crest": "https://crests.football-data.org/108.png"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 2,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 1
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 11065,
+                "name": "Daniele Doveri",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333593,
+        "utcDate": "2022-04-27T18:15:00Z",
+        "status": "FINISHED",
+        "matchday": 20,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 102,
+            "name": "Atalanta BC",
+            "shortName": "Atalanta",
+            "tla": "ATA",
+            "crest": "https://crests.football-data.org/102.svg"
+        },
+        "awayTeam": {
+            "id": 586,
+            "name": "Torino FC",
+            "shortName": "Torino",
+            "tla": "TOR",
+            "crest": "https://crests.football-data.org/586.svg"
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 4,
+                "away": 4
+            },
+            "halfTime": {
+                "home": 2,
+                "away": 2
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 11006,
+                "name": "Rosario Abisso",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333438,
+        "utcDate": "2022-04-30T13:00:00Z",
+        "status": "FINISHED",
+        "matchday": 35,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 113,
+            "name": "SSC Napoli",
+            "shortName": "Napoli",
+            "tla": "NAP",
+            "crest": "https://crests.football-data.org/113.svg"
+        },
+        "awayTeam": {
+            "id": 471,
+            "name": "US Sassuolo Calcio",
+            "shortName": "Sassuolo",
+            "tla": "SAS",
+            "crest": "https://crests.football-data.org/471.svg"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 6,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 4,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 11018,
+                "name": "Antonio Rapuano",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333442,
+        "utcDate": "2022-04-30T13:00:00Z",
+        "status": "FINISHED",
+        "matchday": 35,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 104,
+            "name": "Cagliari Calcio",
+            "shortName": "Cagliari",
+            "tla": "CAG",
+            "crest": "https://crests.football-data.org/104.svg"
+        },
+        "awayTeam": {
+            "id": 450,
+            "name": "Hellas Verona FC",
+            "shortName": "Verona",
+            "tla": "HVE",
+            "crest": "https://crests.football-data.org/450.png"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 2
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 2
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 11116,
+                "name": "Daniele Orsato",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333436,
+        "utcDate": "2022-04-30T16:00:00Z",
+        "status": "FINISHED",
+        "matchday": 35,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 584,
+            "name": "UC Sampdoria",
+            "shortName": "Sampdoria",
+            "tla": "SAM",
+            "crest": "https://crests.football-data.org/584.svg"
+        },
+        "awayTeam": {
+            "id": 107,
+            "name": "Genoa CFC",
+            "shortName": "Genoa",
+            "tla": "GEN",
+            "crest": "https://crests.football-data.org/107.svg"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 0
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 10977,
+                "name": "Fabio Maresca",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333435,
+        "utcDate": "2022-04-30T18:45:00Z",
+        "status": "FINISHED",
+        "matchday": 35,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 488,
+            "name": "Spezia Calcio",
+            "shortName": "Spezia Calcio",
+            "tla": "SPE",
+            "crest": "https://crests.football-data.org/488.svg"
+        },
+        "awayTeam": {
+            "id": 110,
+            "name": "SS Lazio",
+            "shortName": "Lazio",
+            "tla": "LAZ",
+            "crest": "https://crests.football-data.org/110.svg"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 3,
+                "away": 4
+            },
+            "halfTime": {
+                "home": 2,
+                "away": 1
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 11002,
+                "name": "Luca Pairetto",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333440,
+        "utcDate": "2022-05-01T10:30:00Z",
+        "status": "FINISHED",
+        "matchday": 35,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 109,
+            "name": "Juventus FC",
+            "shortName": "Juventus",
+            "tla": "JUV",
+            "crest": "https://crests.football-data.org/109.svg"
+        },
+        "awayTeam": {
+            "id": 454,
+            "name": "Venezia FC",
+            "shortName": "Venezia FC",
+            "tla": "VEN",
+            "crest": "https://crests.football-data.org/454.png"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 2,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 57794,
+                "name": "Alessandro Prontera",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333439,
+        "utcDate": "2022-05-01T13:00:00Z",
+        "status": "FINISHED",
+        "matchday": 35,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 98,
+            "name": "AC Milan",
+            "shortName": "Milan",
+            "tla": "MIL",
+            "crest": "https://crests.football-data.org/98.svg"
+        },
+        "awayTeam": {
+            "id": 99,
+            "name": "ACF Fiorentina",
+            "shortName": "Fiorentina",
+            "tla": "FIO",
+            "crest": "https://crests.football-data.org/99.svg"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 0
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 11075,
+                "name": "Paolo Valeri",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333441,
+        "utcDate": "2022-05-01T13:00:00Z",
+        "status": "FINISHED",
+        "matchday": 35,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 445,
+            "name": "Empoli FC",
+            "shortName": "Empoli",
+            "tla": "EMP",
+            "crest": "https://crests.football-data.org/445.png"
+        },
+        "awayTeam": {
+            "id": 586,
+            "name": "Torino FC",
+            "shortName": "Torino",
+            "tla": "TOR",
+            "crest": "https://crests.football-data.org/586.svg"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 3
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 172224,
+                "name": "Francesco Cosso",
+                "type": "REFEREE",
+                "nationality": null
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333434,
+        "utcDate": "2022-05-01T16:00:00Z",
+        "status": "FINISHED",
+        "matchday": 35,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 115,
+            "name": "Udinese Calcio",
+            "shortName": "Udinese",
+            "tla": "UDI",
+            "crest": "https://crests.football-data.org/115.png"
+        },
+        "awayTeam": {
+            "id": 108,
+            "name": "FC Internazionale Milano",
+            "shortName": "Inter",
+            "tla": "INT",
+            "crest": "https://crests.football-data.org/108.png"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 2
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 2
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 11053,
+                "name": "Daniele Chiffi",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333437,
+        "utcDate": "2022-05-01T18:45:00Z",
+        "status": "FINISHED",
+        "matchday": 35,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 100,
+            "name": "AS Roma",
+            "shortName": "Roma",
+            "tla": "ROM",
+            "crest": "https://crests.football-data.org/100.svg"
+        },
+        "awayTeam": {
+            "id": 103,
+            "name": "Bologna FC 1909",
+            "shortName": "Bologna",
+            "tla": "BOL",
+            "crest": "https://crests.football-data.org/103.svg"
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 0,
+                "away": 0
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 10985,
+                "name": "Michael Fabbri",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333443,
+        "utcDate": "2022-05-02T18:45:00Z",
+        "status": "FINISHED",
+        "matchday": 35,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 102,
+            "name": "Atalanta BC",
+            "shortName": "Atalanta",
+            "tla": "ATA",
+            "crest": "https://crests.football-data.org/102.svg"
+        },
+        "awayTeam": {
+            "id": 455,
+            "name": "US Salernitana 1919",
+            "shortName": "Salernitana",
+            "tla": "SAL",
+            "crest": "https://crests.football-data.org/455.png"
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 1
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 11079,
+                "name": "Marco Guida",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333587,
+        "utcDate": "2022-05-05T16:00:00Z",
+        "status": "FINISHED",
+        "matchday": 20,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 455,
+            "name": "US Salernitana 1919",
+            "shortName": "Salernitana",
+            "tla": "SAL",
+            "crest": "https://crests.football-data.org/455.png"
+        },
+        "awayTeam": {
+            "id": 454,
+            "name": "Venezia FC",
+            "shortName": "Venezia FC",
+            "tla": "VEN",
+            "crest": "https://crests.football-data.org/454.png"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 2,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 11043,
+                "name": "Maurizio Mariani",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333430,
+        "utcDate": "2022-05-06T16:45:00Z",
+        "status": "FINISHED",
+        "matchday": 36,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 108,
+            "name": "FC Internazionale Milano",
+            "shortName": "Inter",
+            "tla": "INT",
+            "crest": "https://crests.football-data.org/108.png"
+        },
+        "awayTeam": {
+            "id": 445,
+            "name": "Empoli FC",
+            "shortName": "Empoli",
+            "tla": "EMP",
+            "crest": "https://crests.football-data.org/445.png"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 4,
+                "away": 2
+            },
+            "halfTime": {
+                "home": 2,
+                "away": 2
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 11072,
+                "name": "Gianluca Manganiello",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333432,
+        "utcDate": "2022-05-06T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 36,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 107,
+            "name": "Genoa CFC",
+            "shortName": "Genoa",
+            "tla": "GEN",
+            "crest": "https://crests.football-data.org/107.svg"
+        },
+        "awayTeam": {
+            "id": 109,
+            "name": "Juventus FC",
+            "shortName": "Juventus",
+            "tla": "JUV",
+            "crest": "https://crests.football-data.org/109.svg"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 2,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 57826,
+                "name": "Simone Sozza",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333425,
+        "utcDate": "2022-05-07T13:00:00Z",
+        "status": "FINISHED",
+        "matchday": 36,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 586,
+            "name": "Torino FC",
+            "shortName": "Torino",
+            "tla": "TOR",
+            "crest": "https://crests.football-data.org/586.svg"
+        },
+        "awayTeam": {
+            "id": 113,
+            "name": "SSC Napoli",
+            "shortName": "Napoli",
+            "tla": "NAP",
+            "crest": "https://crests.football-data.org/113.svg"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 0,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 57794,
+                "name": "Alessandro Prontera",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333427,
+        "utcDate": "2022-05-07T16:00:00Z",
+        "status": "FINISHED",
+        "matchday": 36,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 471,
+            "name": "US Sassuolo Calcio",
+            "shortName": "Sassuolo",
+            "tla": "SAS",
+            "crest": "https://crests.football-data.org/471.svg"
+        },
+        "awayTeam": {
+            "id": 115,
+            "name": "Udinese Calcio",
+            "shortName": "Udinese",
+            "tla": "UDI",
+            "crest": "https://crests.football-data.org/115.png"
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 57868,
+                "name": "Matteo Marcenaro",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333429,
+        "utcDate": "2022-05-07T18:45:00Z",
+        "status": "FINISHED",
+        "matchday": 36,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 110,
+            "name": "SS Lazio",
+            "shortName": "Lazio",
+            "tla": "LAZ",
+            "crest": "https://crests.football-data.org/110.svg"
+        },
+        "awayTeam": {
+            "id": 584,
+            "name": "UC Sampdoria",
+            "shortName": "Sampdoria",
+            "tla": "SAM",
+            "crest": "https://crests.football-data.org/584.svg"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 2,
+                "away": 0
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 11029,
+                "name": "Davide Massa",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333426,
+        "utcDate": "2022-05-08T10:30:00Z",
+        "status": "FINISHED",
+        "matchday": 36,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 488,
+            "name": "Spezia Calcio",
+            "shortName": "Spezia Calcio",
+            "tla": "SPE",
+            "crest": "https://crests.football-data.org/488.svg"
+        },
+        "awayTeam": {
+            "id": 102,
+            "name": "Atalanta BC",
+            "shortName": "Atalanta",
+            "tla": "ATA",
+            "crest": "https://crests.football-data.org/102.svg"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 3
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 1
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 10977,
+                "name": "Fabio Maresca",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333424,
+        "utcDate": "2022-05-08T13:00:00Z",
+        "status": "FINISHED",
+        "matchday": 36,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 454,
+            "name": "Venezia FC",
+            "shortName": "Venezia FC",
+            "tla": "VEN",
+            "crest": "https://crests.football-data.org/454.png"
+        },
+        "awayTeam": {
+            "id": 103,
+            "name": "Bologna FC 1909",
+            "shortName": "Bologna",
+            "tla": "BOL",
+            "crest": "https://crests.football-data.org/103.svg"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 4,
+                "away": 3
+            },
+            "halfTime": {
+                "home": 2,
+                "away": 1
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 11119,
+                "name": "Livio Marinelli",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333428,
+        "utcDate": "2022-05-08T16:00:00Z",
+        "status": "FINISHED",
+        "matchday": 36,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 455,
+            "name": "US Salernitana 1919",
+            "shortName": "Salernitana",
+            "tla": "SAL",
+            "crest": "https://crests.football-data.org/455.png"
+        },
+        "awayTeam": {
+            "id": 104,
+            "name": "Cagliari Calcio",
+            "shortName": "Cagliari",
+            "tla": "CAG",
+            "crest": "https://crests.football-data.org/104.svg"
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 11060,
+                "name": "Marco Di Bello",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333431,
+        "utcDate": "2022-05-08T18:45:00Z",
+        "status": "FINISHED",
+        "matchday": 36,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 450,
+            "name": "Hellas Verona FC",
+            "shortName": "Verona",
+            "tla": "HVE",
+            "crest": "https://crests.football-data.org/450.png"
+        },
+        "awayTeam": {
+            "id": 98,
+            "name": "AC Milan",
+            "shortName": "Milan",
+            "tla": "MIL",
+            "crest": "https://crests.football-data.org/98.svg"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 3
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 1
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 11065,
+                "name": "Daniele Doveri",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333433,
+        "utcDate": "2022-05-09T18:45:00Z",
+        "status": "FINISHED",
+        "matchday": 36,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 99,
+            "name": "ACF Fiorentina",
+            "shortName": "Fiorentina",
+            "tla": "FIO",
+            "crest": "https://crests.football-data.org/99.svg"
+        },
+        "awayTeam": {
+            "id": 100,
+            "name": "AS Roma",
+            "shortName": "Roma",
+            "tla": "ROM",
+            "crest": "https://crests.football-data.org/100.svg"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 2,
+                "away": 0
+            },
+            "halfTime": {
+                "home": 2,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 11079,
+                "name": "Marco Guida",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333421,
+        "utcDate": "2022-05-14T13:00:00Z",
+        "status": "FINISHED",
+        "matchday": 37,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 445,
+            "name": "Empoli FC",
+            "shortName": "Empoli",
+            "tla": "EMP",
+            "crest": "https://crests.football-data.org/445.png"
+        },
+        "awayTeam": {
+            "id": 455,
+            "name": "US Salernitana 1919",
+            "shortName": "Salernitana",
+            "tla": "SAL",
+            "crest": "https://crests.football-data.org/455.png"
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 11029,
+                "name": "Davide Massa",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333414,
+        "utcDate": "2022-05-14T16:00:00Z",
+        "status": "FINISHED",
+        "matchday": 37,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 115,
+            "name": "Udinese Calcio",
+            "shortName": "Udinese",
+            "tla": "UDI",
+            "crest": "https://crests.football-data.org/115.png"
+        },
+        "awayTeam": {
+            "id": 488,
+            "name": "Spezia Calcio",
+            "shortName": "Spezia Calcio",
+            "tla": "SPE",
+            "crest": "https://crests.football-data.org/488.svg"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 2,
+                "away": 3
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 2
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 11068,
+                "name": "Gianluca Aureliano",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333420,
+        "utcDate": "2022-05-14T16:00:00Z",
+        "status": "FINISHED",
+        "matchday": 37,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 450,
+            "name": "Hellas Verona FC",
+            "shortName": "Verona",
+            "tla": "HVE",
+            "crest": "https://crests.football-data.org/450.png"
+        },
+        "awayTeam": {
+            "id": 586,
+            "name": "Torino FC",
+            "shortName": "Torino",
+            "tla": "TOR",
+            "crest": "https://crests.football-data.org/586.svg"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 0,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 1
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 57846,
+                "name": "Giacomo Camplone",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333416,
+        "utcDate": "2022-05-14T18:45:00Z",
+        "status": "FINISHED",
+        "matchday": 37,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 100,
+            "name": "AS Roma",
+            "shortName": "Roma",
+            "tla": "ROM",
+            "crest": "https://crests.football-data.org/100.svg"
+        },
+        "awayTeam": {
+            "id": 454,
+            "name": "Venezia FC",
+            "shortName": "Venezia FC",
+            "tla": "VEN",
+            "crest": "https://crests.football-data.org/454.png"
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 1
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 57826,
+                "name": "Simone Sozza",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333423,
+        "utcDate": "2022-05-15T10:35:00Z",
+        "status": "FINISHED",
+        "matchday": 37,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 103,
+            "name": "Bologna FC 1909",
+            "shortName": "Bologna",
+            "tla": "BOL",
+            "crest": "https://crests.football-data.org/103.svg"
+        },
+        "awayTeam": {
+            "id": 471,
+            "name": "US Sassuolo Calcio",
+            "shortName": "Sassuolo",
+            "tla": "SAS",
+            "crest": "https://crests.football-data.org/471.svg"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 3
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 1
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 11084,
+                "name": "Davide Ghersini",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333417,
+        "utcDate": "2022-05-15T13:05:00Z",
+        "status": "FINISHED",
+        "matchday": 37,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 113,
+            "name": "SSC Napoli",
+            "shortName": "Napoli",
+            "tla": "NAP",
+            "crest": "https://crests.football-data.org/113.svg"
+        },
+        "awayTeam": {
+            "id": 107,
+            "name": "Genoa CFC",
+            "shortName": "Genoa",
+            "tla": "GEN",
+            "crest": "https://crests.football-data.org/107.svg"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 3,
+                "away": 0
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 10985,
+                "name": "Michael Fabbri",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333418,
+        "utcDate": "2022-05-15T16:00:00Z",
+        "status": "FINISHED",
+        "matchday": 37,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 98,
+            "name": "AC Milan",
+            "shortName": "Milan",
+            "tla": "MIL",
+            "crest": "https://crests.football-data.org/98.svg"
+        },
+        "awayTeam": {
+            "id": 102,
+            "name": "Atalanta BC",
+            "shortName": "Atalanta",
+            "tla": "ATA",
+            "crest": "https://crests.football-data.org/102.svg"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 2,
+                "away": 0
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 11116,
+                "name": "Daniele Orsato",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333422,
+        "utcDate": "2022-05-15T18:45:00Z",
+        "status": "FINISHED",
+        "matchday": 37,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 104,
+            "name": "Cagliari Calcio",
+            "shortName": "Cagliari",
+            "tla": "CAG",
+            "crest": "https://crests.football-data.org/104.svg"
+        },
+        "awayTeam": {
+            "id": 108,
+            "name": "FC Internazionale Milano",
+            "shortName": "Inter",
+            "tla": "INT",
+            "crest": "https://crests.football-data.org/108.png"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 3
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 1
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 11065,
+                "name": "Daniele Doveri",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333415,
+        "utcDate": "2022-05-16T16:30:00Z",
+        "status": "FINISHED",
+        "matchday": 37,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 584,
+            "name": "UC Sampdoria",
+            "shortName": "Sampdoria",
+            "tla": "SAM",
+            "crest": "https://crests.football-data.org/584.svg"
+        },
+        "awayTeam": {
+            "id": 99,
+            "name": "ACF Fiorentina",
+            "shortName": "Fiorentina",
+            "tla": "FIO",
+            "crest": "https://crests.football-data.org/99.svg"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 4,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 2,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 11043,
+                "name": "Maurizio Mariani",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333419,
+        "utcDate": "2022-05-16T18:45:00Z",
+        "status": "FINISHED",
+        "matchday": 37,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 109,
+            "name": "Juventus FC",
+            "shortName": "Juventus",
+            "tla": "JUV",
+            "crest": "https://crests.football-data.org/109.svg"
+        },
+        "awayTeam": {
+            "id": 110,
+            "name": "SS Lazio",
+            "shortName": "Lazio",
+            "tla": "LAZ",
+            "crest": "https://crests.football-data.org/110.svg"
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 2,
+                "away": 2
+            },
+            "halfTime": {
+                "home": 2,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 57842,
+                "name": "Giovanni Ayroldi",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333405,
+        "utcDate": "2022-05-20T18:45:00Z",
+        "status": "FINISHED",
+        "matchday": 38,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 586,
+            "name": "Torino FC",
+            "shortName": "Torino",
+            "tla": "TOR",
+            "crest": "https://crests.football-data.org/586.svg"
+        },
+        "awayTeam": {
+            "id": 100,
+            "name": "AS Roma",
+            "shortName": "Roma",
+            "tla": "ROM",
+            "crest": "https://crests.football-data.org/100.svg"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 0,
+                "away": 3
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 2
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 11054,
+                "name": "Massimiliano Irrati",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333411,
+        "utcDate": "2022-05-21T15:15:00Z",
+        "status": "FINISHED",
+        "matchday": 38,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 107,
+            "name": "Genoa CFC",
+            "shortName": "Genoa",
+            "tla": "GEN",
+            "crest": "https://crests.football-data.org/107.svg"
+        },
+        "awayTeam": {
+            "id": 103,
+            "name": "Bologna FC 1909",
+            "shortName": "Bologna",
+            "tla": "BOL",
+            "crest": "https://crests.football-data.org/103.svg"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 0,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 57873,
+                "name": "Gianpiero Miele",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333409,
+        "utcDate": "2022-05-21T18:45:00Z",
+        "status": "FINISHED",
+        "matchday": 38,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 110,
+            "name": "SS Lazio",
+            "shortName": "Lazio",
+            "tla": "LAZ",
+            "crest": "https://crests.football-data.org/110.svg"
+        },
+        "awayTeam": {
+            "id": 450,
+            "name": "Hellas Verona FC",
+            "shortName": "Verona",
+            "tla": "HVE",
+            "crest": "https://crests.football-data.org/450.png"
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 3,
+                "away": 3
+            },
+            "halfTime": {
+                "home": 2,
+                "away": 2
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 57878,
+                "name": "Andrea Colombo",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333412,
+        "utcDate": "2022-05-21T18:45:00Z",
+        "status": "FINISHED",
+        "matchday": 38,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 99,
+            "name": "ACF Fiorentina",
+            "shortName": "Fiorentina",
+            "tla": "FIO",
+            "crest": "https://crests.football-data.org/99.svg"
+        },
+        "awayTeam": {
+            "id": 109,
+            "name": "Juventus FC",
+            "shortName": "Juventus",
+            "tla": "JUV",
+            "crest": "https://crests.football-data.org/109.svg"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 2,
+                "away": 0
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 11053,
+                "name": "Daniele Chiffi",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333413,
+        "utcDate": "2022-05-21T18:50:00Z",
+        "status": "FINISHED",
+        "matchday": 38,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 102,
+            "name": "Atalanta BC",
+            "shortName": "Atalanta",
+            "tla": "ATA",
+            "crest": "https://crests.football-data.org/102.svg"
+        },
+        "awayTeam": {
+            "id": 445,
+            "name": "Empoli FC",
+            "shortName": "Empoli",
+            "tla": "EMP",
+            "crest": "https://crests.football-data.org/445.png"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 0,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 11006,
+                "name": "Rosario Abisso",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333406,
+        "utcDate": "2022-05-22T10:30:00Z",
+        "status": "FINISHED",
+        "matchday": 38,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 488,
+            "name": "Spezia Calcio",
+            "shortName": "Spezia Calcio",
+            "tla": "SPE",
+            "crest": "https://crests.football-data.org/488.svg"
+        },
+        "awayTeam": {
+            "id": 113,
+            "name": "SSC Napoli",
+            "shortName": "Napoli",
+            "tla": "NAP",
+            "crest": "https://crests.football-data.org/113.svg"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 0,
+                "away": 3
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 3
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 57762,
+                "name": "Matteo Marchetti",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333407,
+        "utcDate": "2022-05-22T16:00:00Z",
+        "status": "FINISHED",
+        "matchday": 38,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 471,
+            "name": "US Sassuolo Calcio",
+            "shortName": "Sassuolo",
+            "tla": "SAS",
+            "crest": "https://crests.football-data.org/471.svg"
+        },
+        "awayTeam": {
+            "id": 98,
+            "name": "AC Milan",
+            "shortName": "Milan",
+            "tla": "MIL",
+            "crest": "https://crests.football-data.org/98.svg"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 0,
+                "away": 3
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 3
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 11065,
+                "name": "Daniele Doveri",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333410,
+        "utcDate": "2022-05-22T16:05:00Z",
+        "status": "FINISHED",
+        "matchday": 38,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 108,
+            "name": "FC Internazionale Milano",
+            "shortName": "Inter",
+            "tla": "INT",
+            "crest": "https://crests.football-data.org/108.png"
+        },
+        "awayTeam": {
+            "id": 584,
+            "name": "UC Sampdoria",
+            "shortName": "Sampdoria",
+            "tla": "SAM",
+            "crest": "https://crests.football-data.org/584.svg"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 3,
+                "away": 0
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 11060,
+                "name": "Marco Di Bello",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333404,
+        "utcDate": "2022-05-22T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 38,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 454,
+            "name": "Venezia FC",
+            "shortName": "Venezia FC",
+            "tla": "VEN",
+            "crest": "https://crests.football-data.org/454.png"
+        },
+        "awayTeam": {
+            "id": 104,
+            "name": "Cagliari Calcio",
+            "shortName": "Cagliari",
+            "tla": "CAG",
+            "crest": "https://crests.football-data.org/104.svg"
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 0,
+                "away": 0
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 10977,
+                "name": "Fabio Maresca",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        "season": {
+            "id": 757,
+            "startDate": "2021-08-21",
+            "endDate": "2022-05-22",
+            "currentMatchday": 38,
+            "winner": null
+        },
+        "id": 333408,
+        "utcDate": "2022-05-22T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 38,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2022-06-23T08:20:14Z",
+        "homeTeam": {
+            "id": 455,
+            "name": "US Salernitana 1919",
+            "shortName": "Salernitana",
+            "tla": "SAL",
+            "crest": "https://crests.football-data.org/455.png"
+        },
+        "awayTeam": {
+            "id": 115,
+            "name": "Udinese Calcio",
+            "shortName": "Udinese",
+            "tla": "UDI",
+            "crest": "https://crests.football-data.org/115.png"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 0,
+                "away": 4
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 3
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 11116,
+                "name": "Daniele Orsato",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    }
+]
