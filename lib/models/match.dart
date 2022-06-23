@@ -2,6 +2,7 @@ import 'dart:convert';
 
 import 'package:flutter_winning_eleven/models/season.dart';
 import 'package:flutter_winning_eleven/models/team.dart';
+import 'package:flutter_winning_eleven/utils/match_utils.dart';
 
 enum MatchWinner {
   homeTeam,
@@ -40,6 +41,6 @@ class Match {
         matchday: json['matchday'],
         homeTeam: Team.fromJson(json['homeTeam']),
         awayTeam: Team.fromJson(json['awayTeam']),
-        matchWinner: json['score']['winner'],
+        matchWinner: MatchUtils.parseMatchWinner(json['score']['winner']),
       );
 }
