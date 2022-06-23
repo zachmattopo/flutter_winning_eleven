@@ -1,19 +1,17 @@
-import 'dart:convert';
+import 'package:equatable/equatable.dart';
 
-class Season {
-  Season({
+class Season extends Equatable {
+  const Season({
     this.id,
     this.startDate,
     this.endDate,
     this.currentMatchday,
   });
 
-  int? id;
-  DateTime? startDate;
-  DateTime? endDate;
-  int? currentMatchday;
-
-  factory Season.fromRawJson(String str) => Season.fromJson(json.decode(str));
+  final int? id;
+  final DateTime? startDate;
+  final DateTime? endDate;
+  final int? currentMatchday;
 
   factory Season.fromJson(Map<String, dynamic> json) => Season(
         id: json['id'],
@@ -21,4 +19,12 @@ class Season {
         endDate: DateTime.parse(json['endDate']),
         currentMatchday: json['currentMatchday'],
       );
+
+  @override
+  List<Object?> get props => [
+        id,
+        startDate,
+        endDate,
+        currentMatchday,
+      ];
 }

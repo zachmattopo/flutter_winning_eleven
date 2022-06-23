@@ -18,7 +18,7 @@ class TeamBloc extends Bloc<TeamEvent, TeamState> {
         final ApiResponse apiResponse = await repository.fetchTeam(event.id);
 
         if (apiResponse.success) {
-          final Team team = Team.fromRawJson(apiResponse.data);
+          final Team team = Team.fromJson(apiResponse.data);
 
           emit(TeamFetchSuccess(team: team));
         } else {

@@ -1,7 +1,7 @@
 import 'package:dio/dio.dart';
 import 'package:flutter_winning_eleven/models/api_response.dart';
 import 'package:flutter_winning_eleven/utils/app_config.dart';
-import 'package:flutter_winning_eleven/utils/date_time_utils.dart';
+import 'package:flutter_winning_eleven/utils/app_utils.dart';
 
 class ApiClient {
   Dio apiClient = Dio();
@@ -53,15 +53,15 @@ class ApiClient {
     DateTime dateFrom,
     DateTime dateTo,
   ) async {
-    const url = '/v4/competitions/SA/matches';
+    final String url = '/v4/competitions/${AppConfig.competitionCode}/matches';
 
     try {
       final Response response = await apiClient.get(
         url,
         queryParameters: {
           'status': 'FINISHED',
-          'dateFrom': DateTimeUtils.formatYYYYMMDD(dateFrom),
-          'dateTo': DateTimeUtils.formatYYYYMMDD(dateTo),
+          'dateFrom': AppUtils.formatYYYYMMDD(dateFrom),
+          'dateTo': AppUtils.formatYYYYMMDD(dateTo),
         },
       );
 

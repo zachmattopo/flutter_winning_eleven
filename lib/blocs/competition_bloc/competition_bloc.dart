@@ -27,7 +27,7 @@ class CompetitionBloc extends Bloc<CompetitionEvent, CompetitionState> {
 
         if (apiResponse.success) {
           final Competition competition =
-              Competition.fromRawJson(apiResponse.data);
+              Competition.fromJson(apiResponse.data);
 
           // Use the `seasons` array in `competition` to get date range of matches
           final DateTime? dateTo =

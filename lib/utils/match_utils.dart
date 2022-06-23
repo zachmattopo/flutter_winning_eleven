@@ -16,15 +16,19 @@ class MatchUtils {
         case MatchWinner.homeTeam:
           teamWinMap.update(
             match.homeTeam!,
-            (value) => value++,
-            ifAbsent: () => 1,
+            (value) => value + 1,
+            ifAbsent: () {
+              return 1;
+            },
           );
           break;
         case MatchWinner.awayTeam:
           teamWinMap.update(
             match.awayTeam!,
-            (value) => value++,
-            ifAbsent: () => 1,
+            (value) => value + 1,
+            ifAbsent: () {
+              return 1;
+            },
           );
           break;
         case MatchWinner.draw:

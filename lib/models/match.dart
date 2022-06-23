@@ -1,5 +1,4 @@
-import 'dart:convert';
-
+import 'package:equatable/equatable.dart';
 import 'package:flutter_winning_eleven/models/season.dart';
 import 'package:flutter_winning_eleven/models/team.dart';
 import 'package:flutter_winning_eleven/utils/match_utils.dart';
@@ -10,8 +9,8 @@ enum MatchWinner {
   draw,
 }
 
-class Match {
-  Match({
+class Match extends Equatable {
+  const Match({
     this.season,
     this.id,
     this.utcDate,
@@ -22,16 +21,14 @@ class Match {
     this.matchWinner,
   });
 
-  Season? season;
-  int? id;
-  DateTime? utcDate;
-  String? status;
-  int? matchday;
-  Team? homeTeam;
-  Team? awayTeam;
-  MatchWinner? matchWinner;
-
-  factory Match.fromRawJson(String str) => Match.fromJson(json.decode(str));
+  final Season? season;
+  final int? id;
+  final DateTime? utcDate;
+  final String? status;
+  final int? matchday;
+  final Team? homeTeam;
+  final Team? awayTeam;
+  final MatchWinner? matchWinner;
 
   factory Match.fromJson(Map<String, dynamic> json) => Match(
         season: Season.fromJson(json['season']),
@@ -43,4 +40,16 @@ class Match {
         awayTeam: Team.fromJson(json['awayTeam']),
         matchWinner: MatchUtils.parseMatchWinner(json['score']['winner']),
       );
+
+  @override
+  List<Object?> get props => [
+        season,
+        id,
+        utcDate,
+        status,
+        matchday,
+        homeTeam,
+        awayTeam,
+        matchWinner,
+      ];
 }

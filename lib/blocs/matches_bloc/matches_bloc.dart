@@ -33,7 +33,7 @@ class MatchesBloc extends Bloc<MatchesEvent, MatchesState> {
 
           final List<Match> matches =
               // ignore: unnecessary_lambdas
-              matchesJsonArray.map((e) => Match.fromRawJson(e)).toList();
+              matchesJsonArray.map((e) => Match.fromJson(e)).toList();
 
           // Get best team from the matches
           final Map<Team, int> map = MatchUtils.getTeamWinMap(matches);
